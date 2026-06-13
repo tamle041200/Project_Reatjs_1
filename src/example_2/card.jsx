@@ -2,12 +2,12 @@ export default function Card() {
   return (
     <a
       href="#"
-      classname="bg-neutral-primary-soft block max-w-sm p-6 border border-default rounded-base shadow-xs hover:bg-neutral-secondary-medium"
+      className="bg-neutral-primary-soft block max-w-sm p-6 border border-default rounded-base shadow-xs hover:bg-neutral-secondary-medium"
     >
-      <h5 classname="mb-3 text-2xl font-semibold tracking-tight text-heading leading-8">
+      <h5 className="mb-3 text-2xl font-semibold tracking-tight text-heading leading-8">
         Noteworthy technology acquisitions 2021
       </h5>
-      <p classname="text-body">
+      <p className="text-body">
         Here are the biggest technology acquisitions of 2025 so far, in reverse
         chronological order.
       </p>
